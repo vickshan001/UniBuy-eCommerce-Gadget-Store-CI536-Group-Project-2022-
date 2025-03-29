@@ -1,4 +1,4 @@
-# 💸 UniBuy – Gadget Price Comparison Platform (CI536 Group Project, 2021)
+# 💸 UniBuy – Gadget Price Comparison Platform (CI536 Group Project, 2022)
 
 **UniBuy** is a responsive price comparison web application developed as a group project for the **CI536 module** in 2021. The platform allows users to browse laptops, desktops, and mobile devices, and compare product prices across different online retailers — showing which store offers the best deal.
 
